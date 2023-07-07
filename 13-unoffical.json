@@ -1,0 +1,12 @@
+[
+{
+   "name": "Miku UI",
+   "repo": "xiaoleGun/treble_build_miku",
+   "type": "github"
+  },
+  {
+    "name": "Pixel Experience",
+    "repo": "ponces/treble_build_pe",
+    "type": "github"
+  }
+]
